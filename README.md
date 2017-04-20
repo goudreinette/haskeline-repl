@@ -1,7 +1,9 @@
 # haskeline-repl
 
 ```haskell
+module Main where
+
 import System.Console.Repl
 
-repl "echo=> " print
+main = repl "echo=> " print
 ```
