@@ -1,7 +1,7 @@
 name:                haskeline-repl
 version:             0.1.0.0
 -- synopsis:
--- description:
+description:         A convenient Haskeline wrapper
 homepage:            https://github.com/githubuser/haskeline-repl#readme
 license:             BSD3
 license-file:        LICENSE
